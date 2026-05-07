@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Sasidhar 👋
 
-<!--
-**Sasidhar-07/Sasidhar-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer focused on:
+- Full Stack Development
+- Python
+- AI/ML
+- Problem Solving
 
-Here are some ideas to get you started:
+## Currently Building
+- Full Stack To-Do App
+- AI Image Captioning Project
+- DSA Journey in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python • JavaScript • React • Node.js • MongoDB
+
+## Goals for 2026
+- Build real-world projects
+- Contribute to open source
+- Land software internships
