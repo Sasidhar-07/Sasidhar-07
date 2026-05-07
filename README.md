@@ -1,4 +1,4 @@
-export default function SasiNeuralInterface() {
+
   return (
     <div className="relative min-h-screen overflow-hidden bg-black text-cyan-300 font-mono">
       {/* Animated Background */}
