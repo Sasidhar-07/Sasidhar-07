@@ -1,7 +1,7 @@
 # SASI.EXE
 
 <p align="center">
-  <a href="YOUR_VERCEL_LINK">
+  <a href="https://vercel.com/sasidhar-07s-projects/sasi-os-v9cb">
     <img src="https://img.shields.io/badge/ENTER_SYSTEM-00ffff?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
